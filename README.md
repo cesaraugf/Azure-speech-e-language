@@ -79,9 +79,7 @@ Psalm 51:10. Create in me a clean heart, O God, and renew a steadfast spirit wit
 ├── salmo.mp3
 ├── projeto.txt
 └── images/
-    ├── print_language_studio_1.jpg
-    ├── print_language_studio_2.jpg
-    ├── print_speech_studio.jpg
+    ├── prints de tela do sistema
     └── ...
 ```
 
